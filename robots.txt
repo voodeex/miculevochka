@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://voodeex.github.io/miculevochka/sitemap.xml
