@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://miculevochka.netlify.app/sitemap.xml
+Sitemap: https://miculevochka.ru/sitemap.xml
